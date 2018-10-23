@@ -1,7 +1,7 @@
 /*FOOTER CSS*/
 
 .icon-bar {
-    /*    width: 15%;*/
+       /* width: 15%; */
     /* Full-width */
     /*    background-color: #555;  Dark-grey background */
     overflow: auto;
@@ -13,7 +13,7 @@
     /* Float links side by side */
     text-align: center;
     /* Center-align text */
-    width: 25%;
+    width: 20%;
     /* Equal width (5 icons with 20% width each = 100%) */
     padding: 12px 0;
     /* Some top and bottom padding */
@@ -46,7 +46,7 @@
 /* for the desktop */
 @media screen and (min-width: 768px) {
     .icon-bar {
-        width: 15%;
+        width: 45%;
     }
 
 }
