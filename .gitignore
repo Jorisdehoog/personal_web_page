@@ -6,3 +6,4 @@ _vti_pvt
 /node_modules
 nodeployment-config.json
 githubToken.txt
+githubToken.json
